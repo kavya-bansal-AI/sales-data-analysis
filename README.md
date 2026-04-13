@@ -20,13 +20,19 @@ The goal is to understand:
 ![Top Products](top_products.png)
 ### 3. Sales vs Profit by Category
 ![Sales vs Profit](sales_vs_profit.png)
+### 4. Furniture Sales
+![Furniture Sales](Furniture_sales.png)
+### 5. Office Supplies Sales
+![Office Supplies Sales](Office_Supplies_sales.png)
+### 6. Technology Sales
+![Technology Sales](Technology_sales.png)
 ## 📈 Key Insights
 - Identified top-performing product categories
 - Found most profitable segments
 - Compared sales and estimated profit trends
 ## 🚀 How to Run
 1. Clone this repository:
-   git clone <your-repo-link>
+   git clone https://github.com/kavya-bansal-AI/sales-data-analysis.git
 2. Install required libraries:
    pip install pandas matplotlib
 3. Run the program:
