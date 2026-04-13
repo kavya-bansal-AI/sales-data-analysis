@@ -23,7 +23,7 @@ The goal is to understand:
 ### 4. Furniture Sales
 ![Furniture Sales](Furniture_sales.png)
 ### 5. Office Supplies Sales
-![Office Supplies Sales](Office Supplies_sales.png)
+![Office Supplies Sales](OfficeSupplies_sales.png)
 ### 6. Technology Sales
 ![Technology Sales](Technology_sales.png)
 ## 📈 Key Insights
